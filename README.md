@@ -11,7 +11,7 @@ I currently work 💻 for [twoday](https://twoday.com/) in Denmark as a Product 
 I don't get that much time to code - but I do play around with the Ethereum blockchain 🔗, Javascript 🇯, Python 🐍 and Go lang 💚.
 Look into my [Portfolio](https://github.com/bschau/Portfolio). The Portfolio contains all what I have done through the years - from the good ol' C64 days, thru Amiga, PalmOS, Android, iOS, Pebble, KaiOS, Microbit to Cloud based technologies. In all sorts of programming languages such as C, C#, Go, Java and Python.
 
-- ⚡ Stuff ... [My lab](https://ldx.dk/lab/), [My Portfolio](https://github.com/bschau/Portfolio)
+- ⚡ Stuff ... [Showcasing Stuff](https://ldx.dk/), [My Portfolio](https://github.com/bschau/Portfolio)
 - 📱 I've created a small game for the iPhone - [iChains](https://github.com/bschau/iChains)
 - 🌍 Also have a look at my website - [schau.dk](https://schau.dk/)
 - 🌍 ... and I have a small company where I help others with freelance coding - [ldx.dk](https://ldx.dk/)
