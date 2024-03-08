@@ -17,7 +17,7 @@ Look into my [Portfolio](https://github.com/bschau/Portfolio). The Portfolio con
 - 🌍 ... and I have a small company where I help others with freelance coding - [ldx.dk](https://ldx.dk/)
 - 📫 Contact me by [e-mail](mailto:brian@schau.dk)
 
-![KaedeRxn](https://schau.dk/imgs/kaederxn.png) ![Color Converter](https://schau.dk/imgs/colconv.png)
+[![KaedeRxn](imgs/kaederxn.png)](https://schau.dk/games/kaederxn/) [![Color Converter](imgs/colconv.png)](https://schau.dk/tools/colconv/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bschau&langs_count=8&layout=compact&theme=radical" />
