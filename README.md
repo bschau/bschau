@@ -33,7 +33,7 @@ Various javascript tools &amp; games - please go to [schau.dk/stuff.html](https:
 
 [![Explosions](imgs/explosions.png)](https://schau.dk/demos/explosions/)&nbsp;&nbsp;&nbsp;[![Stripes](imgs/stripes.png)](https://schau.dk/demos/stripes/)
 
-[![Rectangles](imgs/rect.png)](https://schau.dk/demos/rect/)
+[![Rectangles](imgs/rect.png)](https://schau.dk/demos/rect/)&nbsp;&nbsp;&nbsp;[![Menu](imgs/menu.png)](https://schau.dk/demos/menu/)
 
 ***
 
