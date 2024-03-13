@@ -17,23 +17,23 @@ Look into my [Portfolio](https://github.com/bschau/Portfolio). The Portfolio con
 - 🌍 ... and I have a small company where I help others with freelance coding - [ldx.dk](https://ldx.dk/)
 - 📫 Contact me by [e-mail](mailto:brian@schau.dk)
 
-Various javascript tools &amp; games - please go to [schau.dk/stuff.html](https://schau.dk/stuff.html) for a better view:
+Various javascript tools &amp; games - please go to [ldx.dk/stuff.html](https://ldx.dk/stuff.html) for a better view:
 
-[![KaedeRxn](imgs/kaederxn.png)](https://schau.dk/games/kaederxn/)&nbsp;&nbsp;&nbsp;[![Color Converter](imgs/colconv.png)](https://schau.dk/tools/colconv/)
+[![KaedeRxn](imgs/kaederxn.png)](https://ldx.dk/games/kaederxn/)&nbsp;&nbsp;&nbsp;[![Color Converter](imgs/colconv.png)](https://ldx.dk/tools/colconv/)
 
-[![Euro to DKK](imgs/e2d.png)](https://schau.dk/tools/e2d/)&nbsp;&nbsp;&nbsp;[![The Orientalizer](imgs/orientalizer.png)](https://schau.dk/fun/orientalizer/)
+[![Euro to DKK](imgs/e2d.png)](https://ldx.dk/tools/e2d/)&nbsp;&nbsp;&nbsp;[![The Orientalizer](imgs/orientalizer.png)](https://ldx.dk/fun/orientalizer/)
 
-[![Phase 10 Scorecard](imgs/pxsc.png)](https://schau.dk/games/pxsc/)&nbsp;&nbsp;&nbsp;[![Pronouncable Passwords](imgs/procpwds.png)](https://schau.dk/tools/procpwds/)
+[![Phase 10 Scorecard](imgs/pxsc.png)](https://ldx.dk/games/pxsc/)&nbsp;&nbsp;&nbsp;[![Pronouncable Passwords](imgs/procpwds.png)](https://ldx.dk/tools/procpwds/)
 
-[![Juggle](imgs/juggle.png)](https://schau.dk/games/juggle/)&nbsp;&nbsp;&nbsp;[![Blobs](imgs/blobs.png)](https://schau.dk/demos/blobs/)
+[![Juggle](imgs/juggle.png)](https://ldx.dk/games/juggle/)&nbsp;&nbsp;&nbsp;[![Blobs](imgs/blobs.png)](https://ldx.dk/demos/blobs/)
 
-[![Penguins](imgs/penguins.png)](https://schau.dk/games/penguins/)&nbsp;&nbsp;&nbsp;[![Julia Set](imgs/julia.png)](https://schau.dk/demos/julia/)
+[![Penguins](imgs/penguins.png)](https://ldx.dk/games/penguins/)&nbsp;&nbsp;&nbsp;[![Julia Set](imgs/julia.png)](https://ldx.dk/demos/julia/)
 
-[![Blinking Stars](imgs/blinking.png)](https://schau.dk/demos/blinking/)&nbsp;&nbsp;&nbsp;[![Starfield](imgs/starfield.png)](https://schau.dk/demos/starfield/)
+[![Blinking Stars](imgs/blinking.png)](https://ldx.dk/demos/blinking/)&nbsp;&nbsp;&nbsp;[![Starfield](imgs/starfield.png)](https://ldx.dk/demos/starfield/)
 
-[![Explosions](imgs/explosions.png)](https://schau.dk/demos/explosions/)&nbsp;&nbsp;&nbsp;[![Stripes](imgs/stripes.png)](https://schau.dk/demos/stripes/)
+[![Explosions](imgs/explosions.png)](https://ldx.dk/demos/explosions/)&nbsp;&nbsp;&nbsp;[![Stripes](imgs/stripes.png)](https://ldx.dk/demos/stripes/)
 
-[![Rectangles](imgs/rect.png)](https://schau.dk/demos/rect/)&nbsp;&nbsp;&nbsp;[![Menu](imgs/menu.png)](https://schau.dk/demos/menu/)
+[![Rectangles](imgs/rect.png)](https://ldx.dk/demos/rect/)&nbsp;&nbsp;&nbsp;[![Menu](imgs/menu.png)](https://ldx.dk/demos/menu/)
 
 ***
 
