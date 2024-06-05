@@ -14,7 +14,7 @@ Look into my [Portfolio](https://github.com/bschau/Portfolio). The Portfolio con
 - ⚡ Stuff ... [My Portfolio](https://github.com/bschau/Portfolio) and please also visit my ["laboratory"](https://bschau.github.io/)
 - 📱 I've created a small game for the iPhone - [iChains](https://github.com/bschau/iChains)
 - 🌍 Also have a look at my website - [schau.dk](https://schau.dk/)
-- 🌍 ... and I have a small company where I help others with freelance coding, Schau Consulting (CVR 31649102)
+- 🌍 ... and I have a small company where I help others with freelance coding, LDX (CVR 31649102)
 - 📫 Contact me by [e-mail](mailto:brian@schau.dk)
 
 ***
