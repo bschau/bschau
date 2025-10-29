@@ -6,7 +6,7 @@ Nice seeing you 🫵 here! So nice you chose to stop by. 👍
 
 I am Brian Schau. This is my spot on Github. I used do a lot of code but my career have turned more into the leading side of a development shop.
 
-I currently work 💻 for [twoday](https://twoday.com/) in Denmark as a Product Owner / Engineering Lead with focus on the [Addo Sign](https://addosign.com/) digital signing ✍️ product.
+I currently work 💻 for [twoday](https://twoday.com/) in Denmark as a Product Owner / Engineering Lead with focus on the [Addo Sign](https://addosign.com/) digital signing ✍️ product. Check out my [CV](https://bschau.github.io/).
 
 I don't get that much time to code - but I do play around with the Javascript 🇯 Python 🐍, C# #️⃣, and Go lang 💚.
 
