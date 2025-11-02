@@ -13,7 +13,7 @@ I don't get that much time to code - but I do play around with the Javascript �
 Look into my [Portfolio](https://codeberg.org/bschau/Portfolio). The Portfolio contains all what I have done through the years - from the good ol' C64 days, thru Amiga, PalmOS, Android, iOS, Pebble, KaiOS, Microbit to Cloud based technologies. In all sorts of programming languages such as C, C#, Go, Java and Python.
 
 - ⚡ Stuff ... [My Portfolio](https://codeberg.org/bschau/Portfolio) (Yeah, my things are hosted on [Codeberg](https://codeberg.org/).
-- 💽 I create small, stupid games. Itch: [KaedeRxn](https://lorentzus.itch.io/kaederxn) (and see in [My Portfolio](https://codeberg.org/bschau/Portfolio/games)
+- 💽 I create small, stupid games. Itch: [KaedeRxn](https://lorentzus.itch.io/kaederxn) (and see in [My Portfolio](https://codeberg.org/bschau/Portfolio/src/branch/main/games)
 - 🌍 Also have a look at my website - [schau.dk](https://schau.dk/)
 - 🌍 ... and I have a small company where I help others with freelance coding, [LDX](https://ldx.dk/) (CVR 31649102)
 - 📫 Contact me by [e-mail](mailto:brian@schau.dk)
