@@ -15,8 +15,8 @@ Look into my [Portfolio](https://codeberg.org/bschau/Portfolio). The Portfolio c
 - ⚡ Stuff ... [My Portfolio](https://codeberg.org/bschau/Portfolio) (Yeah, my things are hosted on [Codeberg](https://codeberg.org/).
 - 💽 I create small, stupid games ... [KaedeRxn](https://ldx.dk/kaederxn/index.html) and [Penguins](https://ldx.dk/penguins/index.html).
 - 🌍 Also have a look at my website - [schau.dk](https://schau.dk/).
-- 🌍 ... and I have a small company where I help others with freelance coding, [LDX](https://ldx.dk/) (CVR 31649102)
-- 📫 Contact me by [e-mail](mailto:brian@schau.dk)
+- 🌍 ... and I have a small company where I help others with freelance coding, [LDX](https://ldx.dk/) (CVR 31649102).
+- 📫 Contact me by [e-mail](mailto:brian@schau.dk).
 
 ***
 
